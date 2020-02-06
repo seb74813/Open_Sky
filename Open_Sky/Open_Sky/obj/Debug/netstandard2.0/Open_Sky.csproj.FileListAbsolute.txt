@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\bin\Debug\netstandard2.0\Open_Sky.deps.json
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\bin\Debug\netstandard2.0\Open_Sky.dll
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\bin\Debug\netstandard2.0\ref\Open_Sky.dll
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\bin\Debug\netstandard2.0\Open_Sky.pdb
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\Open_Sky.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\Open_Sky.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\Open_Sky.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\Open_Sky.dll
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\ref\Open_Sky.dll
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\Open_Sky.pdb
+C:\Users\sebas\source\repos\Open_Sky\Open_Sky\Open_Sky\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
